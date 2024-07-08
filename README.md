@@ -1,4 +1,4 @@
-# OLX Clone
+# 🛒 OLX Clone
 
 A feature-rich OLX clone built using React and Vite, with Firebase as the backend. This project aims to replicate the core functionalities of OLX, providing a platform for users to buy and sell products.
 
